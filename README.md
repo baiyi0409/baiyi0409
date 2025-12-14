@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 💻 **技术栈**  
 - 桌面端：WinForms、WPF、Avalonia（跨平台 UI）  
-- 前端：Vue.js（持续学习中）  
+- 前端：Vue.js
 - 后端：ASP.NET Core Web API 服务  
 - 熟悉 C#、XAML、MVVM 模式
 
