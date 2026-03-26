@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 - 熟悉 C#、XAML、MVVM 模式
 
 🚀 热衷于打造流畅、稳定且用户体验出色的桌面应用。  
-🌱 目前正深入学习Vue 前后端一体化开发。  
 📫 欢迎交流、合作或参与开源项目！
 
 ✨ 个人博客：https://buffz.top/
