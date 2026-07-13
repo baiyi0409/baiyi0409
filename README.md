@@ -24,5 +24,3 @@ Here are some ideas to get you started:
 
 🚀 热衷于打造流畅、稳定且用户体验出色的桌面应用。  
 📫 欢迎交流、合作或参与开源项目！
-
-✨ 个人博客：https://buffz.top/
