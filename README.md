@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 桌面端：WinForms、WPF、Avalonia（跨平台 UI）  
 - 前端：Vue.js
 - 后端：ASP.NET Core Web API 服务  
-- 熟悉 C#、XAML、MVVM 模式
+- 熟悉 C#、Node.Js
 
 🚀 热衷于打造流畅、稳定且用户体验出色的桌面应用。  
 📫 欢迎交流、合作或参与开源项目！
